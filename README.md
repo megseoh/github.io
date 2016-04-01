@@ -1,2 +1,2 @@
-# github.io
+# megseoh.github.io
 For playing around
