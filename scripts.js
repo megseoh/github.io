@@ -1,6 +1,6 @@
 $(document).ready(function() {
     console.log( "ready!" );
-    $.get("README.md", function(data) {
+    $.ajax("README.md").done(function(data) {
 
     	alert(data);
 
